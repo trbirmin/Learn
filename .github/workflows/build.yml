@@ -3,4 +3,4 @@ jobs:
   first-job:
     steps:
       - run: node --version
-      -run: npm --version
+      - run: npm --version
